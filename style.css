@@ -108,3 +108,7 @@ text-align:center;
 color:#aaa;
 font-size:0.9rem;
 }
+
+html{
+scroll-behavior: smooth;
+}
